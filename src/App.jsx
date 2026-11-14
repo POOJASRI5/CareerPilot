@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Resume from "./pages/Resume";
 import Dashboard from "./pages/Dashboard";
 import AddJob from "./pages/AddJob";
-import ViewJobs from "./pages/ViewJobs";
+import ViewJobs from "./pages/viewJobs";
 import EditJob from "./pages/EditJob";
 import Layout from "./components/Layout";
 import CoverLetter from "./pages/CoverLetter";
